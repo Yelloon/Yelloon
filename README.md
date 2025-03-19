@@ -2,7 +2,7 @@
 <h4 align="center">
   Prazer, me chamo Gustavo e sou Desenvolvedor Full-Stack.
 
-  Empresas que atuo.
+  Empresas em que participo.
 </h4>
 
 - ❤ Garty Group
@@ -10,17 +10,17 @@
 
 ## 🛠 Languages and Tools:
 
-![LUA](https://img.shields.io/badge/-LUA-05122A?style=flat&logo=lua)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)&nbsp;
+  ![LUA](https://img.shields.io/badge/-LUA-05122A?style=flat&logo=lua)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
 
 <div align="center"> 
   <a href="https://www.youtube.com/@yelloon1681" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
