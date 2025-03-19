@@ -2,7 +2,7 @@
 <h4 align="center">
   Prazer, me chamo Gustavo e sou Desenvolvedor Full-Stack.
 
-  Empresas em que participo.
+  ↓ Empresas em que participo ↓
 </h4>
 
 - ❤ Garty Group
