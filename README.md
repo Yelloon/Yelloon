@@ -5,6 +5,7 @@
   ↓ Empresas em que participo ↓
 </h4>
 
+- 💙 Lisboa Group
 - ❤ Garty Group
 - 💜 Midnight
 
